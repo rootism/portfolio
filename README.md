@@ -5,7 +5,7 @@
 This is a personal portfolio website built using **React**, **Tailwind CSS**, and deployed via **GitHub Pages**. It showcases my skills, projects, and experience as a developer and creative professional.
 
 ## Live Demo
-[View Website](https://rootism.github.io/my-portfolio/)
+[View Website](https://rootism.github.io/portfolio/)
 
 ## Tech Stack
 
